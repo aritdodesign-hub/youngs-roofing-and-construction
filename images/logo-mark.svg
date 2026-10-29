@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Young's Roofing And Construction: PLACEHOLDER mark. They publish no logo anywhere (Google listing only, no website,
+       the supplied FB/site are other firms). A roofline over a bold "Y" on a steel-blue tile. ASK for a logo. -->
+  <rect width="64" height="64" rx="12" fill="#1e64ad"/>
+  <path fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" d="M10 29 32 11l22 18"/>
+  <path fill="none" stroke="#9ccbf3" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" d="M23 30l9 10 9-10M32 40v12"/>
+</svg>
